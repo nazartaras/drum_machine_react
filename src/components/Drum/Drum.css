@@ -1,0 +1,43 @@
+#pad{
+    width: 350px;
+    height: 250px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#drum-machine{
+    border:6px solid #4dc75b;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width:631px) {
+    #drum-machine{
+        flex-direction: column;
+    }
+}
+
+#display{
+    min-height: 40px;
+    font-size: 25px;
+    color: #4dc75b;
+    background-color: #343434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#controls{
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 10px;
+
+}
+#power{
+
+}
