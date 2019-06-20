@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drum_machine_react/static/css/main.98523223.chunk.css",
+    "main.js": "/drum_machine_react/static/js/main.312c7f50.chunk.js",
+    "main.js.map": "/drum_machine_react/static/js/main.312c7f50.chunk.js.map",
+    "runtime~main.js": "/drum_machine_react/static/js/runtime~main.f3411cf1.js",
+    "runtime~main.js.map": "/drum_machine_react/static/js/runtime~main.f3411cf1.js.map",
+    "static/js/2.5068b10f.chunk.js": "/drum_machine_react/static/js/2.5068b10f.chunk.js",
+    "static/js/2.5068b10f.chunk.js.map": "/drum_machine_react/static/js/2.5068b10f.chunk.js.map",
+    "index.html": "/drum_machine_react/index.html",
+    "precache-manifest.c84031dc8978c0539526c920ca75a6da.js": "/drum_machine_react/precache-manifest.c84031dc8978c0539526c920ca75a6da.js",
+    "service-worker.js": "/drum_machine_react/service-worker.js",
+    "static/css/main.98523223.chunk.css.map": "/drum_machine_react/static/css/main.98523223.chunk.css.map",
+    "static/media/logo.svg": "/drum_machine_react/static/media/logo.5d5d9eef.svg"
+  }
+}
